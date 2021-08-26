@@ -1,0 +1,11 @@
+show
+turnright 1670
+move 1670
+show
+move 1670
+turnleft 1670
+show
+turnleft 1670
+turnleft 1670
+move 1670
+show 
